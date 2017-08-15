@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\beete\desktop\macrotrack\macrotrack\source.cpp(76): warning C4101: 'numFoods': unreferenced local variable
+c:\users\beete\desktop\macrotrack\macrotrack\source.cpp(99): warning C4101: 'numFoods': unreferenced local variable
+c:\users\beete\desktop\macrotrack\macrotrack\source.cpp(201): warning C4101: 'unLen': unreferenced local variable
+c:\users\beete\desktop\macrotrack\macrotrack\source.cpp(259): warning C4018: '<': signed/unsigned mismatch
+c:\users\beete\desktop\macrotrack\macrotrack\source.cpp(252): warning C4101: 'nmLen': unreferenced local variable
+  MacroTrack.vcxproj -> C:\Users\beete\Desktop\MacroTrack\Debug\MacroTrack.exe
